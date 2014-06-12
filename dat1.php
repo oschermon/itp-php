@@ -1,10 +1,10 @@
 <?php
  return [
-  'telar' => [
-	['Maria', 2350.20],['Pedro', 2350.20], ['Kenia', 2350.20]
+  'tintas' => [
+	['Maria', 2350.20],['Alexa', 2350.20], ['Kenia', 2350.20]
   ],
-  'color' => [
-        ['Maria', 2350.20],['Pedro', 2350.20], ['Kenia', 2350.20]
+  'armado' => [
+        ['Lulus', 2350.20],['Juana', 2350.20], ['Carol', 2350.20]
   ]
  ];
 
