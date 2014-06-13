@@ -1,4 +1,5 @@
 <?php
+ namespace Html;
 
  class HtmlElement1
   {
@@ -9,10 +10,11 @@
     public function __construct(
      $tag,
      $attributes= [],
-     $content= NULL)
+     $content= NULL
+     )
      {
         $this->tag= $tag;
-        $this->cotent= $content;
+        $this->content= $content;
         $this->attributes= $attributes;
      }
    
